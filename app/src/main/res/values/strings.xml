@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Week12CustomComponents</string>
+    <string name="label_text">Label</string>
+    <string name="value_text">Value</string>
+    <string name="label_example">Burkan</string>
+    <string name="value_example">Yılmaz</string>
+</resources>

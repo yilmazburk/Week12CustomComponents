@@ -1,0 +1,31 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="baseTextDisplayView">@style/TextDisplayView</item>
+    </style>
+
+    <style name="TextDisplayView" parent="">
+        <item name="label">Elvis</item>
+        <item name="value">Presley</item>
+        <item name="spotSize">8dp</item>
+        <item name="spotColor">@color/colorRed</item>
+    </style>
+
+    <style name="TextDisplayView2" parent="">
+        <item name="label">Daft</item>
+        <item name="value">Punk</item>
+        <item name="spotSize">10dp</item>
+        <item name="spotColor">@color/colorPrimary</item>
+    </style>
+    <style name="TextDisplayView3" parent="">
+        <item name="label">Tarkan</item>
+        <item name="value">Tevetoğlu</item>
+        <item name="spotSize">6dp</item>
+        <item name="spotColor">@color/colorAccent</item>
+    </style>
+
+</resources>

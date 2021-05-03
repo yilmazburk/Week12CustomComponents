@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="baseTextDisplayView" format="reference"/>
+
+    <declare-styleable name="TextDisplayView">
+        <attr name="label" format="string"/>
+        <attr name="value" format="string"/>
+        <attr name="spotColor" format="color"/>
+        <attr name="spotSize" format="dimension"/>
+    </declare-styleable>
+
+</resources>
